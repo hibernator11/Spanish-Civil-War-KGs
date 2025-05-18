@@ -78,6 +78,20 @@ WHERE {
 LIMIT 100
 ```
 
+### Map visualisation example
+SPARQL query to retrieve a mpa illustrating the death places of a selection of artists from the Republic and Spanish Civil War in Wikidata.
+
+```
+#defaultView:Map
+SELECT *
+WHERE { 
+    VALUES ?artist {wd:Q5593 wd:Q152384 wd:Q2447692 wd:Q235275}
+    ?artist wdt:P31 ?type .
+    ?artist wdt:P20 ?deathplace .
+    ?deathplace wdt:P625 ?coord .
+    SERVICE wikibase:label { bd:serviceParam wikibase:language "[AUTO_LANGUAGE],en". }
+}
+```
 
 ### Licence
 <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Licence Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/80x15.png" /></a><br />Content is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International license</a>.
