@@ -60,6 +60,25 @@ WHERE {
 }
 ```
 
+### Retrieving bibliographic records related to the Spanish Civil War from the Biblioteca Virtual Miguel de Cervantes LOD repository
+SPARQL query to retrieve up to 100 works related to the subject "España -- Historia -- 1936-1939 (Guerra civil)" from the Biblioteca Virtual Miguel de Cervantes LOD repository.
+
+```
+PREFIX rdac: <http://rdaregistry.info/Elements/c/>
+PREFIX rdaw: <http://rdaregistry.info/Elements/w/>
+
+SELECT * 
+WHERE {
+    ?s rdf:type rdac:Work .
+    ?s rdaw:author ?author .
+    ?s dc:subject "España -- Historia -- 1936-1939 (Guerra civil)" .
+    ?s rdaw:titleOfTheWork ?title .
+    OPTIONAL {?s rdaw:formOfWork ?form}
+} 
+LIMIT 100
+```
+
+
 ### Licence
 <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Licence Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/80x15.png" /></a><br />Content is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International license</a>.
 
