@@ -6,6 +6,8 @@ This project intends to analyse the options and potential of Wikidata to extract
 
 ### Artists from the Republic and Spanish Civil War
 
+This example is based on the book Artistas de la República which documents relevant artists related to the Republic and Spanish Civil War. The VALUES instruction enables the inclusion of a list of Wikidata identifiers representing a selection of the artists described in this book.
+
 ```
 SELECT *
 WHERE { 
@@ -19,9 +21,51 @@ WHERE {
 }
 ```
 
+### Ships helping during the Spanish exile and the Spanish Civil War
+SPARQL query to retrieve the ships helping during the Spanish exile and the Spanish Civil War. Note that the property wdt:P4813 is used to connect Wikidata entities with the resources provided by the Guide to the Spanish Exile of 1939 in the State Archives.
+
+```
+SELECT ?s ?sLabel
+WHERE {
+  ?s wdt:P31 wd:Q697196 .
+  ?s wdt:P4813 ?idpares.
+  SERVICE wikibase:label { bd:serviceParam wikibase:language "[AUTO_LANGUAGE],mul,en". }
+}
+```
+
+### French refugee camps, which concentrated the Spanish Republican exiles of 1939
+SPARQL query to retrieve the French refugee camps, which concentrated the Spanish Republican exiles of 1939. Note that the property wdt:P4813 is used to connect Wikidata entities with the resources provided by the Guide to the Spanish Exile of 1939 in the State Archives.
+
+```
+CONSTRUCT {
+  ?camp wdt:P31 ?type .
+  ?camp wdt:P4813 ?idpares.
+  ?camp rdfs:label ?label.
+  ?camp wdt:P17 ?country .
+  ?camp wdt:P131 ?location .
+  ?camp wdt:P244 ?loc 
+}
+WHERE {
+  VALUES ?type {wd:Q152081 wd:Q2935245 wd:Q5996900}
+  VALUES ?camp {
+      wd:Q11911061 wd:Q1579889 wd:Q2935277 wd:Q18191950 wd:Q973585 
+      wd:Q133978695 wd:Q133978879 wd:Q1604600 wd:Q1668052 wd:Q45501756 
+      wd:Q708638 wd:Q133979733 wd:Q45503576 wd:Q133979399 wd:Q133979241 wd:Q325332}
+  ?camp wdt:P31 ?type .
+  ?camp wdt:P4813 ?idpares.
+  ?camp rdfs:label ?label . FILTER (lang(?label) = 'es') .
+  ?camp wdt:P17 ?country .  
+  OPTIONAL{?camp wdt:P131 ?location .}
+  OPTIONAL{?camp wdt:P244 ?loc .}
+}
+```
+
 ### Licence
 <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Licence Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/80x15.png" /></a><br />Content is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International license</a>.
 
 Please, note that the datasets used in this project have separate licences.
 
 ### References
+
+-  Ramón Guerra de la Vega. 2015. Artistas de la República. ISBN 9788488271358
+-  Gustavo Candela. 2025. Browsing Linked Open Data in Cultural Heritage: A Shareable Visual Configuration Approach. J. Comput. Cult. Herit. 18, 1, Article 9 (March 2025), 15 pages. https://doi.org/10.1145/3707647
