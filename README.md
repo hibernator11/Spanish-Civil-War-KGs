@@ -11,15 +11,37 @@ The data was retrieved from the [National Archives in Spain](https://www.cultura
 This example is based on the book Artistas de la República which documents relevant artists related to the Republic and Spanish Civil War. The VALUES instruction enables the inclusion of a list of Wikidata identifiers representing a selection of the artists described in this book.
 
 ```
-SELECT *
-WHERE { 
+PREFIX wdt: <http://www.wikidata.org/prop/direct/>
+PREFIX wd: <http://www.wikidata.org/entity/>
+
+CONSTRUCT {
+    ?artist wdt:P31 ?type .
+    ?artist wdt:P19 ?placeBirth . 
+    ?placeBirth rdfs:label ?placeBirthLabel .
+    ?artist wdt:P20 ?placeDeath . 
+    ?placeDeath rdfs:label ?placeDeathLabel .
+    ?artist wdt:P569 ?dateBirth .
+    ?artist wdt:P570 ?dateDeath .
+    ?artist wdt:P135 ?movement .
+    ?artist rdfs:label ?artistLabel .
+    ?artist wdt:P18 ?image .
+    ?artist wdt:P21 ?sex .
+} WHERE { 
     VALUES ?artist {
         wd:Q5593 wd:Q152384 wd:Q2447692 wd:Q235275 wd:Q5660510 
         wd:Q118936 wd:Q979226 wd:Q134644 wd:Q921933 wd:Q5994858 
         wd:Q1042706 wd:Q3398317 wd:Q51545 wd:Q467712 wd:Q77347 wd:Q236161}
     ?artist wdt:P31 ?type .
-    ?artist wdt:P19 ?placebirth .
-    SERVICE wikibase:label { bd:serviceParam wikibase:language "[AUTO_LANGUAGE],en". }
+    ?artist wdt:P19 ?placeBirth . 
+    ?placeBirth rdfs:label ?placeBirthLabel . FILTER (lang(?placeBirthLabel) = 'es') .
+    ?artist wdt:P20 ?placeDeath . 
+    ?placeDeath rdfs:label ?placeDeathLabel . FILTER (lang(?placeDeathLabel) = 'es') .
+    ?artist wdt:P569 ?dateBirth .
+    ?artist wdt:P570 ?dateDeath .
+    OPTIONAL {?artist wdt:P135 ?movement} .
+    ?artist rdfs:label ?artistLabel . FILTER (lang(?artistLabel) = 'es') .
+    OPTIONAL {?artist wdt:P18 ?image} .
+    OPTIONAL {?artist wdt:P21 ?sex} .
 }
 ```
 
@@ -119,6 +141,7 @@ WHERE {
 ## Notebooks included
 
 - [French refugee camps](https://nbviewer.org/github/hibernator11/Spanish-Civil-War-KGs/blob/main/notebooks/Extract-French-refugee-camps.ipynb): Example to retrieve the French refugee camps, which concentrated the Spanish Republican exiles of 1939.
+- [Artists](https://nbviewer.org/github/hibernator11/Spanish-Civil-War-KGs/blob/main/notebooks/Extract-artists.ipynb): Example to retrieve artists from the Republic and Spanish Civil War
 
 ## Running the notebooks
 **To execute the notebook in Binder:**
