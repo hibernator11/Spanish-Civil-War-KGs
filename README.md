@@ -49,11 +49,15 @@ CONSTRUCT {
 SPARQL query to retrieve the ships helping during the Spanish exile and the Spanish Civil War. Note that the property wdt:P4813 is used to connect Wikidata entities with the resources provided by the Guide to the Spanish Exile of 1939 in the State Archives.
 
 ```
-SELECT ?s ?sLabel
+CONSTRUCT{
+  ?ship wdt:P31 wd:Q697196 .
+  ?ship wdt:P4813 ?idpares.
+  ?ship rdfs:label ?shipLabel
+}
 WHERE {
-  ?s wdt:P31 wd:Q697196 .
-  ?s wdt:P4813 ?idpares.
-  SERVICE wikibase:label { bd:serviceParam wikibase:language "[AUTO_LANGUAGE],mul,en". }
+  ?ship wdt:P31 wd:Q697196 .
+  ?ship wdt:P4813 ?idpares.
+  ?ship rdfs:label ?shipLabel . FILTER (lang(?shipLabel) = 'en') 
 }
 ```
 
