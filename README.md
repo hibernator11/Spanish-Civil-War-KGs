@@ -116,6 +116,10 @@ WHERE {
 
 <img src="images/map-artists.png" with="50%">
 
+## Notebooks included
+
+- [French refugee camps](notebooks/French refugee camps.ypnb)
+
 ## Running the notebooks
 **To execute the notebook in Binder:**
 
