@@ -116,6 +116,16 @@ WHERE {
 
 <img src="images/map-artists.png" with="50%">
 
+## Running the notebooks
+**To execute the notebook in Binder:**
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/hibernator11/Spanish-Civil-War-KGs/HEAD)
+
+- Click the launch binder button above. Once the demo launches, click My_sample_notebook.ipynb in the file listing.
+- Run the notebook by selecting Cell > Run All. You call also click the play button to run the notebook cell by cell. You will the output of each cell.
+- You can edit the cells, and click on play to run and see the changes.
+
+
 ### Licence
 <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Licence Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/80x15.png" /></a><br />Content is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International license</a>.
 
