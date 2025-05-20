@@ -104,13 +104,17 @@ SPARQL query to retrieve a mpa illustrating the death places of a selection of a
 #defaultView:Map
 SELECT *
 WHERE { 
-    VALUES ?artist {wd:Q5593 wd:Q152384 wd:Q2447692 wd:Q235275}
+    VALUES ?artist {wd:Q5593 wd:Q152384 wd:Q2447692 wd:Q235275 wd:Q5660510 
+        wd:Q118936 wd:Q979226 wd:Q134644 wd:Q921933 wd:Q5994858 
+        wd:Q1042706 wd:Q3398317 wd:Q51545 wd:Q467712 wd:Q77347 wd:Q236161}
     ?artist wdt:P31 ?type .
     ?artist wdt:P20 ?deathplace .
     ?deathplace wdt:P625 ?coord .
     SERVICE wikibase:label { bd:serviceParam wikibase:language "[AUTO_LANGUAGE],en". }
 }
 ```
+
+<img src="map-artists.png" with="50%">
 
 ### Licence
 <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Licence Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/80x15.png" /></a><br />Content is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International license</a>.
