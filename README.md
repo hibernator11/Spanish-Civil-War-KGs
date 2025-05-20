@@ -118,7 +118,7 @@ WHERE {
 
 ## Notebooks included
 
-- [French refugee camps](https://nbviewer.org/github/hibernator11/Spanish-Civil-War-KGs/blob/main/notebooks/Extract-French-refugee-camps.ipynb)
+- [French refugee camps](https://nbviewer.org/github/hibernator11/Spanish-Civil-War-KGs/blob/main/notebooks/Extract-French-refugee-camps.ipynb): Example to retrieve the French refugee camps, which concentrated the Spanish Republican exiles of 1939.
 
 ## Running the notebooks
 **To execute the notebook in Binder:**
