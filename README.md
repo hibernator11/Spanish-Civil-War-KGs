@@ -4,6 +4,8 @@ Extracting Knowledge Graphs as Collections as Data using the Spanish Civil War a
 ### Introduction
 This project intends to analyse the options and potential of Wikidata to extract Collections as Data from Wikidata using the Spanish Civil War and Exile as main topic.
 
+The data was retrieved from the [National Archives in Spain](https://www.cultura.gob.es/en/cultura/areas/archivos/mc/centros/cida/4-difusion-cooperacion/4-1-guias-de-lectura/guia-exilio-espanol-1939-archivos-estatales.html), and enriched in Wikidata.
+
 ### Artists from the Republic and Spanish Civil War
 
 This example is based on the book Artistas de la República which documents relevant artists related to the Republic and Spanish Civil War. The VALUES instruction enables the inclusion of a list of Wikidata identifiers representing a selection of the artists described in this book.
