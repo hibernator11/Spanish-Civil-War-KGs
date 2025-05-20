@@ -1,0 +1,118 @@
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix wd: <http://www.wikidata.org/entity/> .
+@prefix wdt: <http://www.wikidata.org/prop/direct/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+wd:Q11911061 wdt:P131 wd:Q8672 ;
+    wdt:P17 wd:Q142 ;
+    wdt:P31 wd:Q152081 ;
+    wdt:P4813 "123494"^^xsd:string .
+
+wd:Q133978695 wdt:P131 wd:Q785353 ;
+    wdt:P17 wd:Q142 ;
+    wdt:P31 wd:Q152081 ;
+    wdt:P4813 "152945"^^xsd:string .
+
+wd:Q133978879 wdt:P131 wd:Q12808 ;
+    wdt:P17 wd:Q142 ;
+    wdt:P31 wd:Q152081 ;
+    wdt:P4813 "152943"^^xsd:string .
+
+wd:Q133979241 wdt:P131 wd:Q12709 ;
+    wdt:P17 wd:Q142 ;
+    wdt:P31 wd:Q152081 ;
+    wdt:P4813 "152939"^^xsd:string ;
+    wdt:P5630 <http://www.wikidata.org/.well-known/genid/9480aab8ec3d4774adea7ce44595298b> .
+
+wd:Q133979733 wdt:P131 wd:Q828602 ;
+    wdt:P17 wd:Q142 ;
+    wdt:P31 wd:Q152081 ;
+    wdt:P4813 "123497"^^xsd:string .
+
+wd:Q1579889 wdt:P131 wd:Q644728 ;
+    wdt:P17 wd:Q142 ;
+    wdt:P18 <http://commons.wikimedia.org/wiki/Special:FilePath/22NUM1PH2-35%20Habitations%20de%20fortune.jpg> ;
+    wdt:P31 wd:Q152081 ;
+    wdt:P4813 "123496"^^xsd:string .
+
+wd:Q1604600 wdt:P131 wd:Q689457 ;
+    wdt:P17 wd:Q142 ;
+    wdt:P18 <http://commons.wikimedia.org/wiki/Special:FilePath/El%20Barcar%C3%A8s%2013.jpg> ;
+    wdt:P31 wd:Q152081,
+        wd:Q2935245 ;
+    wdt:P4813 "123498"^^xsd:string .
+
+wd:Q1668052 wdt:P17 wd:Q142 ;
+    wdt:P18 <http://commons.wikimedia.org/wiki/Special:FilePath/Agde%20-%20Monument%20Camp%20d%27Agde01.jpg> ;
+    wdt:P31 wd:Q152081 ;
+    wdt:P4813 "123502"^^xsd:string .
+
+wd:Q18191950 wdt:P131 wd:Q752547 ;
+    wdt:P17 wd:Q142 ;
+    wdt:P18 <http://commons.wikimedia.org/wiki/Special:FilePath/Logor%20San%20Siprijen%201939.jpg> ;
+    wdt:P31 wd:Q152081 ;
+    wdt:P4813 "123212"^^xsd:string ;
+    wdt:P571 "1939-02-09T00:00:00+00:00"^^xsd:dateTime .
+
+wd:Q325332 wdt:P131 wd:Q821246 ;
+    wdt:P17 wd:Q142 ;
+    wdt:P18 <http://commons.wikimedia.org/wiki/Special:FilePath/Bundesarchiv%20Bild%20146-1989-107-24%2C%20Frankreich%2C%20Einsatz%20gegen%20die%20Resistance.jpg> ;
+    wdt:P2046 600.0 ;
+    wdt:P31 wd:Q2935245 ;
+    wdt:P4813 "152100"^^xsd:string .
+
+wd:Q45503576 wdt:P131 wd:Q233233 ;
+    wdt:P17 wd:Q262 ;
+    wdt:P31 wd:Q152081 ;
+    wdt:P4813 "153619"^^xsd:string .
+
+wd:Q708638 wdt:P131 wd:Q275882 ;
+    wdt:P17 wd:Q142 ;
+    wdt:P18 <http://commons.wikimedia.org/wiki/Special:FilePath/Gurs%20tombes-3.JPG> ;
+    wdt:P31 wd:Q5996900 ;
+    wdt:P4813 "123500"^^xsd:string ;
+    wdt:P580 "1939-04-01T00:00:00+00:00"^^xsd:dateTime ;
+    wdt:P582 "1943-11-01T00:00:00+00:00"^^xsd:dateTime .
+
+wd:Q973585 wdt:P131 wd:Q1144031,
+        wd:Q693973 ;
+    wdt:P17 wd:Q142 ;
+    wdt:P18 <http://commons.wikimedia.org/wiki/Special:FilePath/Camp%20de%20vernet.jpg>,
+        <http://commons.wikimedia.org/wiki/Special:FilePath/Vernet5.jpg> ;
+    wdt:P31 wd:Q152081,
+        wd:Q2935245 ;
+    wdt:P4813 "123499"^^xsd:string ;
+    wdt:P5630 40000.0 ;
+    wdt:P571 "1918-06-01T00:00:00+00:00"^^xsd:dateTime ;
+    wdt:P576 "1944-06-01T00:00:00+00:00"^^xsd:dateTime .
+
+wd:Q1144031 rdfs:label "Le Vernet"@es .
+
+wd:Q12709 rdfs:label "Pirineos Orientales"@es .
+
+wd:Q12808 rdfs:label "Alto Vienne"@es .
+
+wd:Q233233 rdfs:label "Provincia de Djelfa"@es .
+
+wd:Q262 rdfs:label "Argelia"@es .
+
+wd:Q275882 rdfs:label "Gurs"@es .
+
+wd:Q644728 rdfs:label "Argelès-sur-Mer"@es .
+
+wd:Q689457 rdfs:label "Le Barcarès"@es .
+
+wd:Q693973 rdfs:label "Saverdun"@es .
+
+wd:Q752547 rdfs:label "Saint-Cyprien"@es .
+
+wd:Q785353 rdfs:label "Ruelle-sur-Touvre"@es .
+
+wd:Q821246 rdfs:label "Salses-le-Château"@es .
+
+wd:Q828602 rdfs:label "Prats-de-Mollo-la-Preste"@es .
+
+wd:Q8672 rdfs:label "Le Boulou"@es .
+
+wd:Q142 rdfs:label "Francia"@es .
+
