@@ -45,7 +45,7 @@ CONSTRUCT {
 }
 ```
 
-### Ships helping during the Spanish exile and the Spanish Civil War
+### Refugee ships helping during the Spanish exile and the Spanish Civil War
 SPARQL query to retrieve the ships helping during the Spanish exile and the Spanish Civil War. Note that the property wdt:P4813 is used to connect Wikidata entities with the resources provided by the Guide to the Spanish Exile of 1939 in the State Archives.
 
 ```
