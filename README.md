@@ -118,7 +118,7 @@ WHERE {
 
 ## Notebooks included
 
-- [French refugee camps](notebooks/French refugee camps.ypnb)
+- [French refugee camps](https://nbviewer.org/github/hibernator11/KU-Leuven-Libraries-Impact-CollectionsAsData/blob/main/notebooks/Extract-French-refugee-camps.ipynb)
 
 ## Running the notebooks
 **To execute the notebook in Binder:**
