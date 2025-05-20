@@ -37,13 +37,23 @@ WHERE {
 SPARQL query to retrieve the French refugee camps, which concentrated the Spanish Republican exiles of 1939. Note that the property wdt:P4813 is used to connect Wikidata entities with the resources provided by the Guide to the Spanish Exile of 1939 in the State Archives.
 
 ```
+PREFIX wdt: <http://www.wikidata.org/prop/direct/>
+PREFIX wd: <http://www.wikidata.org/entity/>
+
 CONSTRUCT {
   ?camp wdt:P31 ?type .
   ?camp wdt:P4813 ?idpares.
   ?camp rdfs:label ?label.
   ?camp wdt:P17 ?country .
   ?camp wdt:P131 ?location .
-  ?camp wdt:P244 ?loc 
+  ?camp wdt:P244 ?loc .
+  ?camp wdt:P580 ?starttime .
+  ?camp wdt:P582 ?endtime .
+  ?camp wdt:P571 ?inception .
+  ?camp wdt:P576 ?dissolved .
+  ?camp wdt:P5630 ?prisoners .
+  ?camp wdt:P18 ?image .
+  ?camp wdt:P2046 ?area .
 }
 WHERE {
   VALUES ?type {wd:Q152081 wd:Q2935245 wd:Q5996900}
@@ -57,6 +67,13 @@ WHERE {
   ?camp wdt:P17 ?country .  
   OPTIONAL{?camp wdt:P131 ?location .}
   OPTIONAL{?camp wdt:P244 ?loc .}
+  OPTIONAL{?camp wdt:P580 ?starttime .}
+  OPTIONAL{?camp wdt:P582 ?endtime .}
+  OPTIONAL{?camp wdt:P571 ?inception .}
+  OPTIONAL{?camp wdt:P576 ?dissolved .}
+  OPTIONAL{?camp wdt:P5630 ?prisoners .}
+  OPTIONAL{?camp wdt:P18 ?image .}
+  OPTIONAL{?camp wdt:P2046 ?area .}
 }
 ```
 
