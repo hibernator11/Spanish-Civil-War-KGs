@@ -2,9 +2,25 @@
 Extracting Knowledge Graphs as Collections as Data using the Spanish Civil War as main topic
 
 ### Introduction
-This project intends to analyse the options and potential of Wikidata to extract Collections as Data from Wikidata using the Spanish Civil War and Exile as main topic.
+This project intends to analyse the options and potential of Wikidata to extract Collections as Data from Wikidata using the Spanish Civil War and Spanish Exile as main topic.
 
 The data was retrieved from the [National Archives in Spain](https://www.cultura.gob.es/en/cultura/areas/archivos/mc/centros/cida/4-difusion-cooperacion/4-1-guias-de-lectura/guia-exilio-espanol-1939-archivos-estatales.html), and enriched in Wikidata.
+
+The authors of this work are:
+- Gustavo Candela, University of Alicante, Spain
+- Meltem Dişli, Hacettepe University, Türkiye
+- Paul Spence, King’s College London, United Kingdom
+- Cezary Rosiński, Institute of Literary Research of Polish Academy of Sciences, Poland
+- Arkadiusz Margraf, Poznan Supercomputing and Networking Center affiliated to Institute of Bioorganic Chemistry of the Polish Academy of Sciences, Poland
+
+We provide 4 examples of use covering different topics and content:
+
+- Artists from the period of the Spanish Republic and Spanish Civil War
+- Refugee ships on which Spanish exiles embarked during the Spanish exile and the Spanish Civil War
+- French refugee camps, which concentrated the Spanish Republican exiles of 1939
+- Retrieving bibliographic records related to the Spanish Civil War from the Biblioteca Virtual Miguel de Cervantes LOD repository
+
+The details of each of the examples are described below.
 
 ### Artists from the period of the Spanish Republic and Spanish Civil War
 
@@ -59,8 +75,8 @@ In addition to the data extracted, a metadata description using schema.org as a 
     schema:name "French refugee camps" 
 ```
 
-### Refugee ships helping during the Spanish exile and the Spanish Civil War
-SPARQL query to retrieve the ships helping during the Spanish exile and the Spanish Civil War. Note that the property wdt:P4813 is used to connect Wikidata entities with the resources provided by the Guide to the Spanish Exile of 1939 in the State Archives.
+### Refugee ships on which Spanish exiles embarked during the Spanish exile and the Spanish Civil War
+SPARQL query to retrieve the ships on which Spanish exiles embarked during the Spanish exile and the Spanish Civil War. Note that the property wdt:P4813 is used to connect Wikidata entities with the resources provided by the Guide to the Spanish Exile of 1939 in the State Archives.
 
 ```
 CONSTRUCT{
