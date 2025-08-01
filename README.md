@@ -1,4 +1,4 @@
-# Spanish-Civil-War-KGs
+<img width="1920" height="1200" alt="imagen" src="https://github.com/user-attachments/assets/80bf2391-7613-45f0-b948-ac30ba762ded" /><img width="1920" height="1200" alt="imagen" src="https://github.com/user-attachments/assets/c46bb44a-6025-433a-b3a5-388ddddf2101" /># Spanish-Civil-War-KGs
 Extracting Knowledge Graphs as Collections as Data using the Spanish Civil War as main topic
 
 ### Introduction
@@ -201,7 +201,7 @@ WHERE {
 Please, note that the datasets used in this project have separate licences.
 
 ### Acknowledgments
-This work was inspired by the International GLAM Labs Community, Impact Centre of competence in digitisation, Wikimedia Spain, the DHwiki working group and the Collections as Data initiative. This work was performed as part of the ATRIUM (Advancing fronTier Research In the arts and hUManities) project.
+This work was inspired by the [International GLAM Labs Community](https://glamlabs.io/), [Impact Centre of competence in digitisation](https://www.digitisation.eu/), [Wikimedia Spain](https://wikimedia.es/), the [DHwiki working group](https://www.dariah.eu/activities/working-groups/dhwiki/) and the [Collections as Data initiative](https://collectionsasdata.github.io/). This work was performed as part of the [ATRIUM](https://atrium-research.eu/) (Advancing fronTier Research In the arts and hUManities) project.
 
 
 ### References
