@@ -160,7 +160,7 @@ LIMIT 100
 ```
 
 ### Map visualisation example
-SPARQL query to retrieve a map illustrating the death places of a selection of artists from the Republic and Spanish Civil War in Wikidata.
+SPARQL query to retrieve a map illustrating the death places of a selection of artists during the period of the Spanish Republic and Spanish Civil War in Wikidata.
 
 ```
 #defaultView:Map
