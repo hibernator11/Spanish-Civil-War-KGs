@@ -54,10 +54,9 @@ In addition to the data extracted, a metadata description using schema.org as a 
 <https://example.org/dataset/camps> a schema:Dataset ;
     dc:title "French refugee camps" ;
     schema:dateCreated "2025-05-20" ;
-    schema:description "Example to retrieve the French refugee camps, which concentrated the Spanish Republican exiles of 1939." ;
+    schema:description "French refugee camps which concentrated the Spanish Republican exiles of 1939." ;
     schema:license <https://creativecommons.org/publicdomain/zero/1.0/> ;
-    schema:name "French refugee camps" ;
-    schema:url <https://www.cultura.gob.es/en/cultura/areas/archivos/mc/centros/cida/4-difusion-cooperacion/4-1-guias-de-lectura/guia-exilio-espanol-1939-archivos-estatales.html> .
+    schema:name "French refugee camps" 
 ```
 
 ### Refugee ships helping during the Spanish exile and the Spanish Civil War
