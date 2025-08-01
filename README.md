@@ -200,6 +200,10 @@ WHERE {
 
 Please, note that the datasets used in this project have separate licences.
 
+### Acknowledgments
+This work was inspired by the International GLAM Labs Community, Impact Centre of competence in digitisation, Wikimedia Spain, the DHwiki working group and the Collections as Data initiative. This work was performed as part of the ATRIUM (Advancing fronTier Research In the arts and hUManities) project.
+
+
 ### References
 
 -  Ramón Guerra de la Vega. 2015. Artistas de la República. ISBN 9788488271358
