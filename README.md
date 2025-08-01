@@ -6,9 +6,9 @@ This project intends to analyse the options and potential of Wikidata to extract
 
 The data was retrieved from the [National Archives in Spain](https://www.cultura.gob.es/en/cultura/areas/archivos/mc/centros/cida/4-difusion-cooperacion/4-1-guias-de-lectura/guia-exilio-espanol-1939-archivos-estatales.html), and enriched in Wikidata.
 
-### Artists from the Republic and Spanish Civil War
+### Artists from the period of the Spanish Republic and Spanish Civil War
 
-This example is based on the book Artistas de la República which documents relevant artists related to the Republic and Spanish Civil War. The VALUES instruction enables the inclusion of a list of Wikidata identifiers representing a selection of the artists described in this book.
+This example is based on the book Artistas de la República which documents relevant artists related to the period of the Spanish Republic and Spanish Civil War. The VALUES instruction enables the inclusion of a list of Wikidata identifiers representing a selection of the artists described in the book.
 
 ```
 PREFIX wdt: <http://www.wikidata.org/prop/direct/>
@@ -43,6 +43,21 @@ CONSTRUCT {
     OPTIONAL {?artist wdt:P18 ?image} .
     OPTIONAL {?artist wdt:P21 ?sex} .
 }
+```
+
+In addition to the data extracted, a metadata description using schema.org as a main vocabulary is provided describing the dataset. 
+
+```
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix schema: <https://schema.org/> .
+
+<https://example.org/dataset/camps> a schema:Dataset ;
+    dc:title "French refugee camps" ;
+    schema:dateCreated "2025-05-20" ;
+    schema:description "Example to retrieve the French refugee camps, which concentrated the Spanish Republican exiles of 1939." ;
+    schema:license <https://creativecommons.org/publicdomain/zero/1.0/> ;
+    schema:name "French refugee camps" ;
+    schema:url <https://www.cultura.gob.es/en/cultura/areas/archivos/mc/centros/cida/4-difusion-cooperacion/4-1-guias-de-lectura/guia-exilio-espanol-1939-archivos-estatales.html> .
 ```
 
 ### Refugee ships helping during the Spanish exile and the Spanish Civil War
