@@ -1,4 +1,4 @@
-<img width="1920" height="1200" alt="imagen" src="https://github.com/user-attachments/assets/80bf2391-7613-45f0-b948-ac30ba762ded" /><img width="1920" height="1200" alt="imagen" src="https://github.com/user-attachments/assets/c46bb44a-6025-433a-b3a5-388ddddf2101" /># Spanish-Civil-War-KGs
+# Spanish-Civil-War-KGs
 Extracting Knowledge Graphs as Collections as Data using the Spanish Civil War as main topic
 
 ### Introduction
