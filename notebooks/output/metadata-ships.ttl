@@ -1,0 +1,11 @@
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix schema: <https://schema.org/> .
+
+<https://example.org/dataset/artists> a schema:Dataset ;
+    dc:title "Exile ships" ;
+    schema:dateCreated "2025-08-02" ;
+    schema:description "The refugee ships on which the Spanish exiles embarked were the silent witnesses to this colossal exodus." ;
+    schema:license <https://creativecommons.org/publicdomain/zero/1.0/> ;
+    schema:name "Exile ships" ;
+    schema:url <https://www.cultura.gob.es/en/cultura/areas/archivos/mc/centros/cida/4-difusion-cooperacion/4-1-guias-de-lectura/guia-exilio-espanol-1939-archivos-estatales/barcos-exilio.html> .
+

@@ -1,0 +1,187 @@
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix wd: <http://www.wikidata.org/entity/> .
+@prefix wdt: <http://www.wikidata.org/prop/direct/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+wd:Q1042706 rdfs:label "Carlos Arniches"@es ;
+    wdt:P18 <http://commons.wikimedia.org/wiki/Special:FilePath/Carlos%20Arniches%202.jpg> ;
+    wdt:P19 wd:Q11959 ;
+    wdt:P20 wd:Q2807 ;
+    wdt:P21 wd:Q6581097 ;
+    wdt:P31 wd:Q5 ;
+    wdt:P569 "1866-10-11T00:00:00+00:00"^^xsd:dateTime,
+        "1866-11-11T00:00:00+00:00"^^xsd:dateTime ;
+    wdt:P570 "1943-04-16T00:00:00+00:00"^^xsd:dateTime .
+
+wd:Q118936 rdfs:label "Rafael Alberti"@es ;
+    wdt:P18 <http://commons.wikimedia.org/wiki/Special:FilePath/Rafael%20Alberti%201978-10-01.jpg> ;
+    wdt:P19 wd:Q203040 ;
+    wdt:P20 wd:Q15682,
+        wd:Q203040 ;
+    wdt:P21 wd:Q6581097 ;
+    wdt:P31 wd:Q5 ;
+    wdt:P569 "1902-12-16T00:00:00+00:00"^^xsd:dateTime ;
+    wdt:P570 "1999-10-28T00:00:00+00:00"^^xsd:dateTime .
+
+wd:Q134644 rdfs:label "Vicente Aleixandre"@es ;
+    wdt:P135 wd:Q575691 ;
+    wdt:P18 <http://commons.wikimedia.org/wiki/Special:FilePath/Spaanse%20dichter%20en%20nobelprijswinnaar%20Vicente%20Alexandre%2C%20Bestanddeelnr%20929-3851.jpg> ;
+    wdt:P19 wd:Q8717 ;
+    wdt:P20 wd:Q2807 ;
+    wdt:P21 wd:Q6581097 ;
+    wdt:P31 wd:Q5 ;
+    wdt:P569 "1898-04-26T00:00:00+00:00"^^xsd:dateTime ;
+    wdt:P570 "1984-12-14T00:00:00+00:00"^^xsd:dateTime .
+
+wd:Q152384 rdfs:label "Joan Miró"@es ;
+    wdt:P135 wd:Q39427 ;
+    wdt:P18 <http://commons.wikimedia.org/wiki/Special:FilePath/Joan%20Miro%20%28cropped%29.jpg> ;
+    wdt:P19 wd:Q1492 ;
+    wdt:P20 wd:Q8826 ;
+    wdt:P21 wd:Q6581097 ;
+    wdt:P31 wd:Q5 ;
+    wdt:P569 "1893-04-20T00:00:00+00:00"^^xsd:dateTime ;
+    wdt:P570 "1983-12-25T00:00:00+00:00"^^xsd:dateTime .
+
+wd:Q235275 rdfs:label "Remedios Varo"@es ;
+    wdt:P135 wd:Q39427 ;
+    wdt:P19 wd:Q13027 ;
+    wdt:P20 wd:Q1489 ;
+    wdt:P21 wd:Q6581072 ;
+    wdt:P31 wd:Q5 ;
+    wdt:P569 "1908-12-16T00:00:00+00:00"^^xsd:dateTime ;
+    wdt:P570 "1963-10-08T00:00:00+00:00"^^xsd:dateTime .
+
+wd:Q236161 rdfs:label "Dora Maar"@es ;
+    wdt:P135 wd:Q39427 ;
+    wdt:P19 wd:Q245546 ;
+    wdt:P20 wd:Q230127 ;
+    wdt:P21 wd:Q6581072 ;
+    wdt:P31 wd:Q5 ;
+    wdt:P569 "1907-11-22T00:00:00+00:00"^^xsd:dateTime ;
+    wdt:P570 "1997-07-16T00:00:00+00:00"^^xsd:dateTime .
+
+wd:Q2447692 rdfs:label "Maruja Mallo"@es ;
+    wdt:P135 wd:Q1153335,
+        wd:Q28474914,
+        wd:Q39427,
+        wd:Q575691 ;
+    wdt:P18 <http://commons.wikimedia.org/wiki/Special:FilePath/Maruja%20Mallo.JPG> ;
+    wdt:P19 wd:Q641221 ;
+    wdt:P20 wd:Q2807 ;
+    wdt:P21 wd:Q6581072 ;
+    wdt:P31 wd:Q5 ;
+    wdt:P569 "1902-01-05T00:00:00+00:00"^^xsd:dateTime ;
+    wdt:P570 "1995-02-06T00:00:00+00:00"^^xsd:dateTime .
+
+wd:Q3398317 rdfs:label "Jesús Bal y Gay"@es ;
+    wdt:P19 wd:Q11125 ;
+    wdt:P20 wd:Q1641236 ;
+    wdt:P21 wd:Q6581097 ;
+    wdt:P31 wd:Q5 ;
+    wdt:P569 "1905-06-23T00:00:00+00:00"^^xsd:dateTime ;
+    wdt:P570 "1993-03-03T00:00:00+00:00"^^xsd:dateTime .
+
+wd:Q467712 rdfs:label "Josep Lluís Sert"@es ;
+    wdt:P18 <http://commons.wikimedia.org/wiki/Special:FilePath/Josep%20Llu%C3%ADs%20Sert%20i%20L%C3%B3pez%20%281981%29%20%28cropped%29.jpg> ;
+    wdt:P19 wd:Q1492 ;
+    wdt:P20 wd:Q1492 ;
+    wdt:P21 wd:Q6581097 ;
+    wdt:P31 wd:Q5 ;
+    wdt:P569 "1902-07-01T00:00:00+00:00"^^xsd:dateTime ;
+    wdt:P570 "1983-03-15T00:00:00+00:00"^^xsd:dateTime .
+
+wd:Q51545 rdfs:label "Luis Buñuel"@es ;
+    wdt:P135 wd:Q39427 ;
+    wdt:P18 <http://commons.wikimedia.org/wiki/Special:FilePath/LuisBu%C3%B1uel1929.jpg> ;
+    wdt:P19 wd:Q737161 ;
+    wdt:P20 wd:Q1489 ;
+    wdt:P21 wd:Q6581097 ;
+    wdt:P31 wd:Q5 ;
+    wdt:P569 "1900-02-22T00:00:00+00:00"^^xsd:dateTime ;
+    wdt:P570 "1983-07-29T00:00:00+00:00"^^xsd:dateTime .
+
+wd:Q5994858 rdfs:label "Manuel Ángeles Ortiz"@es ;
+    wdt:P19 wd:Q15681 ;
+    wdt:P20 wd:Q187153 ;
+    wdt:P21 wd:Q6581097 ;
+    wdt:P31 wd:Q5 ;
+    wdt:P569 "1895-01-13T00:00:00+00:00"^^xsd:dateTime,
+        "1895-01-16T00:00:00+00:00"^^xsd:dateTime ;
+    wdt:P570 "1984-04-04T00:00:00+00:00"^^xsd:dateTime .
+
+wd:Q77347 rdfs:label "Gerda Taro"@es ;
+    wdt:P135 wd:Q506858,
+        wd:Q605789 ;
+    wdt:P18 <http://commons.wikimedia.org/wiki/Special:FilePath/Gerda%20Taro-Anonymous%20crop.jpg> ;
+    wdt:P19 wd:Q1022 ;
+    wdt:P20 wd:Q985269 ;
+    wdt:P21 wd:Q6581072 ;
+    wdt:P31 wd:Q5 ;
+    wdt:P569 "1910-08-01T00:00:00+00:00"^^xsd:dateTime ;
+    wdt:P570 "1937-07-26T00:00:00+00:00"^^xsd:dateTime .
+
+wd:Q921933 rdfs:label "Manuel Altolaguirre"@es ;
+    wdt:P135 wd:Q575691 ;
+    wdt:P18 <http://commons.wikimedia.org/wiki/Special:FilePath/Manuel%20Altolaguirre%20-%20Antigua%20Imprenta%20Sur%20-%20M%C3%A1laga%20-%20Grupo%20en%201927%20%28cropped%29.jpg> ;
+    wdt:P19 wd:Q8851 ;
+    wdt:P20 wd:Q9580 ;
+    wdt:P21 wd:Q6581097 ;
+    wdt:P31 wd:Q5 ;
+    wdt:P569 "1905-06-29T00:00:00+00:00"^^xsd:dateTime ;
+    wdt:P570 "1959-07-26T00:00:00+00:00"^^xsd:dateTime .
+
+wd:Q979226 rdfs:label "Alberto Sánchez Pérez"@es ;
+    wdt:P19 wd:Q5836 ;
+    wdt:P20 wd:Q649 ;
+    wdt:P21 wd:Q6581097 ;
+    wdt:P31 wd:Q5 ;
+    wdt:P569 "1895-04-08T00:00:00+00:00"^^xsd:dateTime ;
+    wdt:P570 "1962-10-12T00:00:00+00:00"^^xsd:dateTime .
+
+wd:Q1022 rdfs:label "Stuttgart"@es .
+
+wd:Q11125 rdfs:label "Lugo"@es .
+
+wd:Q11959 rdfs:label "Alicante"@es .
+
+wd:Q13027 rdfs:label "Anglés"@es .
+
+wd:Q15681 rdfs:label "Jaén"@es .
+
+wd:Q15682 rdfs:label "Cádiz"@es .
+
+wd:Q1641236 rdfs:label "Torrelaguna"@es .
+
+wd:Q187153 rdfs:label "XIV Distrito de París"@es .
+
+wd:Q230127 rdfs:label "IV Distrito de París"@es .
+
+wd:Q245546 rdfs:label "VI Distrito de París"@es .
+
+wd:Q5836 rdfs:label "Toledo"@es .
+
+wd:Q641221 rdfs:label "Vivero"@es .
+
+wd:Q649 rdfs:label "Moscú"@es .
+
+wd:Q737161 rdfs:label "Calanda"@es .
+
+wd:Q8717 rdfs:label "Sevilla"@es .
+
+wd:Q8826 rdfs:label "Palma de Mallorca"@es .
+
+wd:Q8851 rdfs:label "Málaga"@es .
+
+wd:Q9580 rdfs:label "Burgos"@es .
+
+wd:Q985269 rdfs:label "El Escorial"@es .
+
+wd:Q1489 rdfs:label "Ciudad de México"@es .
+
+wd:Q203040 rdfs:label "El Puerto de Santa María"@es .
+
+wd:Q1492 rdfs:label "Barcelona"@es .
+
+wd:Q2807 rdfs:label "Madrid"@es .
+

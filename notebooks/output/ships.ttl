@@ -1,0 +1,105 @@
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix wd: <http://www.wikidata.org/entity/> .
+@prefix wdt: <http://www.wikidata.org/prop/direct/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+wd:Q11696214 rdfs:label "Nyassa"@en ;
+    wdt:P31 wd:Q697196 ;
+    wdt:P4813 "123493"^^xsd:string .
+
+wd:Q134521282 rdfs:label "Champlain"@en ;
+    wdt:P31 wd:Q697196 ;
+    wdt:P4813 "123763"^^xsd:string .
+
+wd:Q134521348 rdfs:label "Colonial"@en ;
+    wdt:P31 wd:Q697196 ;
+    wdt:P4813 "123674"^^xsd:string .
+
+wd:Q134521359 rdfs:label "Cuba"@en ;
+    wdt:P31 wd:Q697196 ;
+    wdt:P4813 "123667"^^xsd:string .
+
+wd:Q134521371 rdfs:label "Flandre"@en ;
+    wdt:P31 wd:Q697196 ;
+    wdt:P4813 "123090"^^xsd:string .
+
+wd:Q134521374 rdfs:label "Foz de Douro"@en ;
+    wdt:P31 wd:Q697196 ;
+    wdt:P4813 "123677"^^xsd:string .
+
+wd:Q134521381 rdfs:label "Guinea"@en ;
+    wdt:P31 wd:Q697196 ;
+    wdt:P4813 "123678"^^xsd:string .
+
+wd:Q134521385 rdfs:label "Iberia"@en ;
+    wdt:P31 wd:Q697196 ;
+    wdt:P4813 "123684"^^xsd:string .
+
+wd:Q134521390 rdfs:label "Ipanema"@en ;
+    wdt:P31 wd:Q697196 ;
+    wdt:P4813 "123038"^^xsd:string .
+
+wd:Q134521396 rdfs:label "Jaragua"@en ;
+    wdt:P31 wd:Q697196 ;
+    wdt:P4813 "141919"^^xsd:string .
+
+wd:Q134521407 rdfs:label "Lasalle"@en ;
+    wdt:P31 wd:Q697196 ;
+    wdt:P4813 "123601"^^xsd:string .
+
+wd:Q134521412 rdfs:label "Manuel Arnús"@en ;
+    wdt:P31 wd:Q697196 ;
+    wdt:P4813 "123690"^^xsd:string .
+
+wd:Q134570422 rdfs:label "Marqués de Comillas"@en ;
+    wdt:P31 wd:Q697196 ;
+    wdt:P4813 "123545"^^xsd:string .
+
+wd:Q134570447 rdfs:label "Mexico"@en ;
+    wdt:P31 wd:Q697196 ;
+    wdt:P4813 "131061"^^xsd:string .
+
+wd:Q134570475 rdfs:label "Monterrey"@en ;
+    wdt:P31 wd:Q697196 ;
+    wdt:P4813 "123691"^^xsd:string .
+
+wd:Q134570485 rdfs:label "New Amsterdam"@en ;
+    wdt:P31 wd:Q697196 ;
+    wdt:P4813 "123600"^^xsd:string .
+
+wd:Q134570495 rdfs:label "Orinoco"@en ;
+    wdt:P31 wd:Q697196 ;
+    wdt:P4813 "123692"^^xsd:string .
+
+wd:Q134570519 rdfs:label "Santo Domingo"@en ;
+    wdt:P31 wd:Q697196 ;
+    wdt:P4813 "123380"^^xsd:string .
+
+wd:Q134570523 rdfs:label "Sao Thomé"@en ;
+    wdt:P31 wd:Q697196 ;
+    wdt:P4813 "150898"^^xsd:string .
+
+wd:Q134570537 rdfs:label "Statendam"@en ;
+    wdt:P31 wd:Q697196 ;
+    wdt:P4813 "123774"^^xsd:string .
+
+wd:Q134570543 rdfs:label "Voledam"@en ;
+    wdt:P31 wd:Q697196 ;
+    wdt:P4813 "131062"^^xsd:string .
+
+wd:Q28517197 rdfs:label "Alsina"@en ;
+    wdt:P31 wd:Q697196 ;
+    wdt:P4813 "153631"^^xsd:string .
+
+wd:Q3297717 rdfs:label "Massilia"@en ;
+    wdt:P31 wd:Q697196 ;
+    wdt:P4813 "123765"^^xsd:string .
+
+wd:Q5484985 rdfs:label "Sinaia"@en ;
+    wdt:P31 wd:Q697196 ;
+    wdt:P4813 "122944"^^xsd:string .
+
+wd:Q7277080 rdfs:label "RMS Ebro"@en ;
+    wdt:P31 wd:Q697196 ;
+    wdt:P4813 "123696"^^xsd:string .
+

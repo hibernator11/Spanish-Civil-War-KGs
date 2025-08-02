@@ -1,11 +1,11 @@
 @prefix dc: <http://purl.org/dc/elements/1.1/> .
 @prefix schema: <https://schema.org/> .
 
-<https://example.org/dataset/camps> a schema:Dataset ;
-    dc:title "French refugee camps" ;
+<https://example.org/dataset/artists> a schema:Dataset ;
+    dc:title "Artists from the Republic and Spanish Civil War" ;
     schema:dateCreated "2025-08-02" ;
-    schema:description "Example to retrieve the French refugee camps, which concentrated the Spanish Republican exiles of 1939." ;
+    schema:description "This example is based on the book Artistas de la República which documents relevant artists related to the Republic and Spanish Civil War." ;
     schema:license <https://creativecommons.org/publicdomain/zero/1.0/> ;
-    schema:name "French refugee camps" ;
+    schema:name "Artists from the Republic and Spanish Civil War" ;
     schema:url <https://www.cultura.gob.es/en/cultura/areas/archivos/mc/centros/cida/4-difusion-cooperacion/4-1-guias-de-lectura/guia-exilio-espanol-1939-archivos-estatales.html> .
 
