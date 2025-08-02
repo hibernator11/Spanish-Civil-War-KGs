@@ -1,0 +1,574 @@
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix rdaw: <http://rdaregistry.info/Elements/w/> .
+
+<https://data.cervantesvirtual.com/work/1048971> a <http://rdaregistry.info/Elements/c/Work> ;
+    dc:subject "España -- Historia -- 1936-1939 (Guerra civil)" ;
+    rdaw:author <https://data.cervantesvirtual.com/person/108269> ;
+    rdaw:formOfWork <http://id.loc.gov/authorities/genreForms/gf2014026168> ;
+    rdaw:titleOfTheWork "El carlismo ante la reorganización de las derechas. De la Segunda Guerra Carlista a la Guerra Civil" .
+
+<https://data.cervantesvirtual.com/work/1049318> a <http://rdaregistry.info/Elements/c/Work> ;
+    dc:subject "España -- Historia -- 1936-1939 (Guerra civil)" ;
+    rdaw:author <https://data.cervantesvirtual.com/person/9728> ;
+    rdaw:formOfWork <http://id.loc.gov/authorities/genreForms/gf2014026168> ;
+    rdaw:titleOfTheWork "Una encuesta política en la España de la preguerra" .
+
+<https://data.cervantesvirtual.com/work/1055461> a <http://rdaregistry.info/Elements/c/Work> ;
+    dc:subject "España -- Historia -- 1936-1939 (Guerra civil)" ;
+    rdaw:author <https://data.cervantesvirtual.com/person/77119> ;
+    rdaw:formOfWork <http://id.loc.gov/authorities/genreForms/gf2014026168> ;
+    rdaw:titleOfTheWork "El caso de Lorca" .
+
+<https://data.cervantesvirtual.com/work/1055714> a <http://rdaregistry.info/Elements/c/Work> ;
+    dc:subject "España -- Historia -- 1936-1939 (Guerra civil)" ;
+    rdaw:author <https://data.cervantesvirtual.com/person/108138> ;
+    rdaw:formOfWork <http://id.loc.gov/authorities/genreForms/gf2014026168> ;
+    rdaw:titleOfTheWork "Los personajes de Chirbes y la guerra y posguerra españolas" .
+
+<https://data.cervantesvirtual.com/work/1066515> a <http://rdaregistry.info/Elements/c/Work> ;
+    dc:subject "España -- Historia -- 1936-1939 (Guerra civil)" ;
+    rdaw:author <https://data.cervantesvirtual.com/person/11550> ;
+    rdaw:formOfWork <http://id.loc.gov/authorities/genreForms/gf2014026191> ;
+    rdaw:titleOfTheWork "Al año de guerra. Por la libertad, por la República, por España" .
+
+<https://data.cervantesvirtual.com/work/1129901> a <http://rdaregistry.info/Elements/c/Work> ;
+    dc:subject "España -- Historia -- 1936-1939 (Guerra civil)" ;
+    rdaw:author <https://data.cervantesvirtual.com/person/9616> ;
+    rdaw:formOfWork <http://id.loc.gov/authorities/genreForms/gf2014026168> ;
+    rdaw:titleOfTheWork "La guerra civil de 1936-1939 en la novela española del último decenio del siglo xx " .
+
+<https://data.cervantesvirtual.com/work/1133547> a <http://rdaregistry.info/Elements/c/Work> ;
+    dc:subject "España -- Historia -- 1936-1939 (Guerra civil)" ;
+    rdaw:author <https://data.cervantesvirtual.com/person/113525> ;
+    rdaw:formOfWork <http://id.loc.gov/authorities/genreForms/gf2014026168> ;
+    rdaw:titleOfTheWork "La tragedia del espíritu español (octubre 1936)" .
+
+<https://data.cervantesvirtual.com/work/1134744> a <http://rdaregistry.info/Elements/c/Work> ;
+    dc:subject "España -- Historia -- 1936-1939 (Guerra civil)" ;
+    rdaw:author <https://data.cervantesvirtual.com/person/113649> ;
+    rdaw:formOfWork <http://id.loc.gov/authorities/genreForms/gf2014026168> ;
+    rdaw:titleOfTheWork """La cara oculta de la contrainsurgencia franquista a través de un mando de la Guardia Civil: la experiencia de Eulogio Limia Pérez 
+
+""" .
+
+<https://data.cervantesvirtual.com/work/1137499> a <http://rdaregistry.info/Elements/c/Work> ;
+    dc:subject "España -- Historia -- 1936-1939 (Guerra civil)" ;
+    rdaw:author <https://data.cervantesvirtual.com/person/9616> ;
+    rdaw:formOfWork <http://id.loc.gov/authorities/genreForms/gf2014026168> ;
+    rdaw:titleOfTheWork "Historia y ficción, historia y discurso: doble dualismo. Análisis narratológico de tres novelas de la Guerra Civil española " .
+
+<https://data.cervantesvirtual.com/work/1145248> a <http://rdaregistry.info/Elements/c/Work> ;
+    dc:subject "España -- Historia -- 1936-1939 (Guerra civil)" ;
+    rdaw:author <https://data.cervantesvirtual.com/person/4432> ;
+    rdaw:formOfWork <http://id.loc.gov/authorities/genreForms/gf2014026191> ;
+    rdaw:titleOfTheWork "En el frente de Extremadura" .
+
+<https://data.cervantesvirtual.com/work/1145631> a <http://rdaregistry.info/Elements/c/Work> ;
+    dc:subject "España -- Historia -- 1936-1939 (Guerra civil)" ;
+    rdaw:author <https://data.cervantesvirtual.com/person/113026> ;
+    rdaw:formOfWork <http://id.loc.gov/authorities/genreForms/gf2014026168> ;
+    rdaw:titleOfTheWork "Significado del teatro alegórico y social: del drama sacro a las tragedias de patrono. Las puestas en escena" .
+
+<https://data.cervantesvirtual.com/work/1145646> a <http://rdaregistry.info/Elements/c/Work> ;
+    dc:subject "España -- Historia -- 1936-1939 (Guerra civil)" ;
+    rdaw:author <https://data.cervantesvirtual.com/person/114503> ;
+    rdaw:formOfWork <http://id.loc.gov/authorities/genreForms/gf2014026039> ;
+    rdaw:titleOfTheWork "Las voces femeninas en \"Un largo silencio\" de Ángeles Caso desde una perspectiva bajtiniana" .
+
+<https://data.cervantesvirtual.com/work/1199823> a <http://rdaregistry.info/Elements/c/Work> ;
+    dc:subject "España -- Historia -- 1936-1939 (Guerra civil)" ;
+    rdaw:author <https://data.cervantesvirtual.com/person/11174> ;
+    rdaw:formOfWork <http://id.loc.gov/authorities/genreForms/gf2014026168> ;
+    rdaw:titleOfTheWork "Miguel Hernández, impulsor de la guerra de guerrillas" .
+
+<https://data.cervantesvirtual.com/work/1200610> a <http://rdaregistry.info/Elements/c/Work> ;
+    dc:subject "España -- Historia -- 1936-1939 (Guerra civil)" ;
+    rdaw:author <https://data.cervantesvirtual.com/person/114657> ;
+    rdaw:formOfWork <http://id.loc.gov/authorities/genreForms/gf2014026168> ;
+    rdaw:titleOfTheWork "La faceta más noble y humana de Miguel Hernández. Últimos recuerdos sobre la guerra civil, del poeta y de su íntimo amigo Efrén Fenoll" .
+
+<https://data.cervantesvirtual.com/work/1208217> a <http://rdaregistry.info/Elements/c/Work> ;
+    dc:subject "España -- Historia -- 1936-1939 (Guerra civil)" ;
+    rdaw:author <https://data.cervantesvirtual.com/person/118809> ;
+    rdaw:formOfWork <http://id.loc.gov/authorities/genreForms/gf2014026168> ;
+    rdaw:titleOfTheWork "Estado de la cuestión sobre los victimarios franquistas en la cultura española del cambio al siglo XXI " .
+
+<https://data.cervantesvirtual.com/work/1208220> a <http://rdaregistry.info/Elements/c/Work> ;
+    dc:subject "España -- Historia -- 1936-1939 (Guerra civil)" ;
+    rdaw:author <https://data.cervantesvirtual.com/person/118810> ;
+    rdaw:formOfWork <http://id.loc.gov/authorities/genreForms/gf2014026168> ;
+    rdaw:titleOfTheWork "\"Mujeres en armas contra la Iglesia\": condenadas por delitos anticlericales durante la dictadura" .
+
+<https://data.cervantesvirtual.com/work/1208277> a <http://rdaregistry.info/Elements/c/Work> ;
+    dc:subject "España -- Historia -- 1936-1939 (Guerra civil)" ;
+    rdaw:author <https://data.cervantesvirtual.com/person/118821>,
+        <https://data.cervantesvirtual.com/person/118822>,
+        <https://data.cervantesvirtual.com/person/118823>,
+        <https://data.cervantesvirtual.com/person/118824> ;
+    rdaw:formOfWork <http://id.loc.gov/authorities/genreForms/gf2014026168> ;
+    rdaw:titleOfTheWork "Monuments, escultures i museus en els espais històrics de la Batalla de l’Ebre. Les aportacions del Grup \"Didáctica del Patrimoni\" de la Universitat de Barcelona" .
+
+<https://data.cervantesvirtual.com/work/1214736> a <http://rdaregistry.info/Elements/c/Work> ;
+    dc:subject "España -- Historia -- 1936-1939 (Guerra civil)" ;
+    rdaw:author <https://data.cervantesvirtual.com/person/71325> ;
+    rdaw:formOfWork <http://id.loc.gov/authorities/genreForms/gf2014026168> ;
+    rdaw:titleOfTheWork "Los exilios de don Quijote y el destierro de los republicanos españoles " .
+
+<https://data.cervantesvirtual.com/work/1263216> a <http://rdaregistry.info/Elements/c/Work> ;
+    dc:subject "España -- Historia -- 1936-1939 (Guerra civil)" ;
+    rdaw:author <https://data.cervantesvirtual.com/person/5104> ;
+    rdaw:formOfWork <http://id.loc.gov/authorities/genreForms/gf2014026168> ;
+    rdaw:titleOfTheWork "La ficción autobiográfica: Franco según Vázquez Montalbán" .
+
+<https://data.cervantesvirtual.com/work/1263890> a <http://rdaregistry.info/Elements/c/Work> ;
+    dc:subject "España -- Historia -- 1936-1939 (Guerra civil)" ;
+    rdaw:author <https://data.cervantesvirtual.com/person/4432> ;
+    rdaw:formOfWork <http://id.loc.gov/authorities/genreForms/gf2014026191> ;
+    rdaw:titleOfTheWork "Fuerza del Manzanares" .
+
+<https://data.cervantesvirtual.com/work/1263896> a <http://rdaregistry.info/Elements/c/Work> ;
+    dc:subject "España -- Historia -- 1936-1939 (Guerra civil)" ;
+    rdaw:author <https://data.cervantesvirtual.com/person/4432> ;
+    rdaw:formOfWork <http://id.loc.gov/authorities/genreForms/gf2014026191> ;
+    rdaw:titleOfTheWork "Pasó el fascismo. El hogar destruido" .
+
+<https://data.cervantesvirtual.com/work/343604> a <http://rdaregistry.info/Elements/c/Work> ;
+    dc:subject "España -- Historia -- 1936-1939 (Guerra civil)" ;
+    rdaw:author <https://data.cervantesvirtual.com/corporatebody/73801> ;
+    rdaw:formOfWork <http://id.loc.gov/authorities/genreForms/gf2014026191> ;
+    rdaw:titleOfTheWork "La Junta Española de Liberación ante la Declaración de Crimea. México, D. F., 13 de febrero de 1945" .
+
+<https://data.cervantesvirtual.com/work/343866> a <http://rdaregistry.info/Elements/c/Work> ;
+    dc:subject "España -- Historia -- 1936-1939 (Guerra civil)" ;
+    rdaw:author <https://data.cervantesvirtual.com/person/83225> ;
+    rdaw:formOfWork <http://id.loc.gov/authorities/genreForms/gf2014026191> ;
+    rdaw:titleOfTheWork "Prieto cree que pronto caerá Franco" .
+
+<https://data.cervantesvirtual.com/work/709942> a <http://rdaregistry.info/Elements/c/Work> ;
+    dc:subject "España -- Historia -- 1936-1939 (Guerra civil)" ;
+    rdaw:author <https://data.cervantesvirtual.com/person/7962> ;
+    rdaw:formOfWork <http://id.loc.gov/authorities/genreForms/gf2014026168> ;
+    rdaw:titleOfTheWork "El exilio como quiebra constitucional" .
+
+<https://data.cervantesvirtual.com/work/714100> a <http://rdaregistry.info/Elements/c/Work> ;
+    dc:subject "España -- Historia -- 1936-1939 (Guerra civil)" ;
+    rdaw:author <https://data.cervantesvirtual.com/person/74325> ;
+    rdaw:formOfWork <http://id.loc.gov/authorities/genreForms/gf2014026168> ;
+    rdaw:titleOfTheWork "Una visión humorística sobre la Guerra Civil en Madrid: \"María de la Hoz\"" .
+
+<https://data.cervantesvirtual.com/work/717325> a <http://rdaregistry.info/Elements/c/Work> ;
+    dc:subject "España -- Historia -- 1936-1939 (Guerra civil)" ;
+    rdaw:author <https://data.cervantesvirtual.com/corporatebody/1470> ;
+    rdaw:formOfWork <http://id.loc.gov/authorities/genreForms/gf2014026191> ;
+    rdaw:titleOfTheWork "Decreto 138/1936, de 29 de septiembre, por el que se nombra jefe del Gobierno del Estado español al Excmo. Sr. General de división don Francisco Franco Bahamonde, quien asumirá todos los poderes del nuevo Estado " .
+
+<https://data.cervantesvirtual.com/work/736026> a <http://rdaregistry.info/Elements/c/Work> ;
+    dc:subject "España -- Historia -- 1936-1939 (Guerra civil)" ;
+    rdaw:author <https://data.cervantesvirtual.com/person/74515> ;
+    rdaw:formOfWork <http://id.loc.gov/authorities/genreForms/gf2014026168> ;
+    rdaw:titleOfTheWork "Aproximación a la historiografía estadounidense sobre la Guerra Civil española" .
+
+<https://data.cervantesvirtual.com/work/736326> a <http://rdaregistry.info/Elements/c/Work> ;
+    dc:subject "España -- Historia -- 1936-1939 (Guerra civil)" ;
+    rdaw:author <https://data.cervantesvirtual.com/person/9554> ;
+    rdaw:formOfWork <http://id.loc.gov/authorities/genreForms/gf2014026168> ;
+    rdaw:titleOfTheWork "La Guerra Civil y las generaciones españolas" .
+
+<https://data.cervantesvirtual.com/work/744985> a <http://rdaregistry.info/Elements/c/Work> ;
+    dc:subject "España -- Historia -- 1936-1939 (Guerra civil)" ;
+    rdaw:author <https://data.cervantesvirtual.com/person/9616> ;
+    rdaw:formOfWork <http://id.loc.gov/authorities/genreForms/gf2014026168> ;
+    rdaw:titleOfTheWork "Las novelas recientes de la Guerra Civil española " .
+
+<https://data.cervantesvirtual.com/work/757129> a <http://rdaregistry.info/Elements/c/Work> ;
+    dc:subject "España -- Historia -- 1936-1939 (Guerra civil)" ;
+    rdaw:author <https://data.cervantesvirtual.com/person/80471> ;
+    rdaw:formOfWork <http://id.loc.gov/authorities/genreForms/gf2014026168> ;
+    rdaw:titleOfTheWork "Frontera y Guerra Civil española. Dominación, resistencia y usos de la memoria" .
+
+<https://data.cervantesvirtual.com/work/774988> a <http://rdaregistry.info/Elements/c/Work> ;
+    dc:subject "España -- Historia -- 1936-1939 (Guerra civil)" ;
+    rdaw:author <https://data.cervantesvirtual.com/person/81794> ;
+    rdaw:formOfWork <http://id.loc.gov/authorities/genreForms/gf2014026191> ;
+    rdaw:titleOfTheWork "¡Alerta los pueblos! : estudio político-militar del periodo final de la guerra española " .
+
+<https://data.cervantesvirtual.com/work/783083> a <http://rdaregistry.info/Elements/c/Work> ;
+    dc:subject "España -- Historia -- 1936-1939 (Guerra civil)" ;
+    rdaw:author <https://data.cervantesvirtual.com/person/82291> ;
+    rdaw:formOfWork <http://id.loc.gov/authorities/genreForms/gf2014026191> ;
+    rdaw:titleOfTheWork "II República, Guerra Civil y represión en Güevéjar (Granada)" .
+
+<https://data.cervantesvirtual.com/work/789432> a <http://rdaregistry.info/Elements/c/Work> ;
+    dc:subject "España -- Historia -- 1936-1939 (Guerra civil)" ;
+    rdaw:author <https://data.cervantesvirtual.com/person/82819> ;
+    rdaw:formOfWork <http://id.loc.gov/authorities/genreForms/gf2014026191> ;
+    rdaw:titleOfTheWork "Semblanzas revolucionarias. Vicente Saénz" .
+
+<https://data.cervantesvirtual.com/work/847533> a <http://rdaregistry.info/Elements/c/Work> ;
+    dc:subject "España -- Historia -- 1936-1939 (Guerra civil)" ;
+    rdaw:author <https://data.cervantesvirtual.com/person/83052> ;
+    rdaw:formOfWork <http://id.loc.gov/authorities/genreForms/gf2011026337> ;
+    rdaw:titleOfTheWork "La República, un modelo" .
+
+<https://data.cervantesvirtual.com/work/847542> a <http://rdaregistry.info/Elements/c/Work> ;
+    dc:subject "España -- Historia -- 1936-1939 (Guerra civil)" ;
+    rdaw:author <https://data.cervantesvirtual.com/person/73927> ;
+    rdaw:formOfWork <http://id.loc.gov/authorities/genreForms/gf2011026337> ;
+    rdaw:titleOfTheWork "Entrevista a Alfonso Guerra" .
+
+<https://data.cervantesvirtual.com/work/849573> a <http://rdaregistry.info/Elements/c/Work> ;
+    dc:subject "España -- Historia -- 1936-1939 (Guerra civil)" ;
+    rdaw:author <https://data.cervantesvirtual.com/person/73691> ;
+    rdaw:formOfWork <http://id.loc.gov/authorities/genreForms/gf2014026168> ;
+    rdaw:titleOfTheWork "Carlota O'Neill: sobrevivir para recordar" .
+
+<https://data.cervantesvirtual.com/work/849579> a <http://rdaregistry.info/Elements/c/Work> ;
+    dc:subject "España -- Historia -- 1936-1939 (Guerra civil)" ;
+    rdaw:author <https://data.cervantesvirtual.com/person/83360> ;
+    rdaw:formOfWork <http://id.loc.gov/authorities/genreForms/gf2014026168> ;
+    rdaw:titleOfTheWork "Max Aub. El exilio y el abandono de la realidad" .
+
+<https://data.cervantesvirtual.com/work/849585> a <http://rdaregistry.info/Elements/c/Work> ;
+    dc:subject "España -- Historia -- 1936-1939 (Guerra civil)" ;
+    rdaw:author <https://data.cervantesvirtual.com/person/83361> ;
+    rdaw:formOfWork <http://id.loc.gov/authorities/genreForms/gf2014026168> ;
+    rdaw:titleOfTheWork """El archivo de la Spanish Refugee Aid. Otras voces y otras vidas del exilio
+""" .
+
+<https://data.cervantesvirtual.com/work/849589> a <http://rdaregistry.info/Elements/c/Work> ;
+    dc:subject "España -- Historia -- 1936-1939 (Guerra civil)" ;
+    rdaw:author <https://data.cervantesvirtual.com/person/83357> ;
+    rdaw:formOfWork <http://id.loc.gov/authorities/genreForms/gf2014026168> ;
+    rdaw:titleOfTheWork "La República en el recuerdo: de la realidad a la esperanza" .
+
+<https://data.cervantesvirtual.com/work/849594> a <http://rdaregistry.info/Elements/c/Work> ;
+    dc:subject "España -- Historia -- 1936-1939 (Guerra civil)" ;
+    rdaw:author <https://data.cervantesvirtual.com/person/13591> ;
+    rdaw:formOfWork <http://id.loc.gov/authorities/genreForms/gf2014026168> ;
+    rdaw:titleOfTheWork """La República en el exilio: un Gobierno sin pueblo y sin tierra
+""" .
+
+<https://data.cervantesvirtual.com/work/849597> a <http://rdaregistry.info/Elements/c/Work> ;
+    dc:subject "España -- Historia -- 1936-1939 (Guerra civil)" ;
+    rdaw:author <https://data.cervantesvirtual.com/person/83363> ;
+    rdaw:formOfWork <http://id.loc.gov/authorities/genreForms/gf2014026168> ;
+    rdaw:titleOfTheWork "Juristas en el exilio " .
+
+<https://data.cervantesvirtual.com/work/849600> a <http://rdaregistry.info/Elements/c/Work> ;
+    dc:subject "España -- Historia -- 1936-1939 (Guerra civil)" ;
+    rdaw:author <https://data.cervantesvirtual.com/person/83362> ;
+    rdaw:formOfWork <http://id.loc.gov/authorities/genreForms/gf2014026168> ;
+    rdaw:titleOfTheWork "La República, hoy y mañana" .
+
+<https://data.cervantesvirtual.com/work/849606> a <http://rdaregistry.info/Elements/c/Work> ;
+    dc:subject "España -- Historia -- 1936-1939 (Guerra civil)" ;
+    rdaw:author <https://data.cervantesvirtual.com/person/83364> ;
+    rdaw:formOfWork <http://id.loc.gov/authorities/genreForms/gf2014026168> ;
+    rdaw:titleOfTheWork "Exilios. Escritores españoles en Estados Unidos " .
+
+<https://data.cervantesvirtual.com/work/849612> a <http://rdaregistry.info/Elements/c/Work> ;
+    dc:subject "España -- Historia -- 1936-1939 (Guerra civil)" ;
+    rdaw:author <https://data.cervantesvirtual.com/person/77929> ;
+    rdaw:formOfWork <http://id.loc.gov/authorities/genreForms/gf2014026168> ;
+    rdaw:titleOfTheWork "El exilio en la \"Luna\"" .
+
+<https://data.cervantesvirtual.com/work/849615> a <http://rdaregistry.info/Elements/c/Work> ;
+    dc:subject "España -- Historia -- 1936-1939 (Guerra civil)" ;
+    rdaw:author <https://data.cervantesvirtual.com/person/13591> ;
+    rdaw:formOfWork <http://id.loc.gov/authorities/genreForms/gf2014026168> ;
+    rdaw:titleOfTheWork "El cine" .
+
+<https://data.cervantesvirtual.com/work/849623> a <http://rdaregistry.info/Elements/c/Work> ;
+    dc:subject "España -- Historia -- 1936-1939 (Guerra civil)" ;
+    rdaw:author <https://data.cervantesvirtual.com/person/83365> ;
+    rdaw:formOfWork <http://id.loc.gov/authorities/genreForms/gf2014026168> ;
+    rdaw:titleOfTheWork "La mujer en la política y en la cultura" .
+
+<https://data.cervantesvirtual.com/work/849624> a <http://rdaregistry.info/Elements/c/Work> ;
+    dc:subject "España -- Historia -- 1936-1939 (Guerra civil)" ;
+    rdaw:author <https://data.cervantesvirtual.com/person/83364> ;
+    rdaw:formOfWork <http://id.loc.gov/authorities/genreForms/gf2014026168> ;
+    rdaw:titleOfTheWork """La violencia del olvido. Mujeres norteamericanas en la Guerra Civil
+Española """ .
+
+<https://data.cervantesvirtual.com/work/849635> a <http://rdaregistry.info/Elements/c/Work> ;
+    dc:subject "España -- Historia -- 1936-1939 (Guerra civil)" ;
+    rdaw:author <https://data.cervantesvirtual.com/person/83367> ;
+    rdaw:formOfWork <http://id.loc.gov/authorities/genreForms/gf2014026168> ;
+    rdaw:titleOfTheWork "Juan de Mairena en \"La Vanguardia\". El final (1938) " .
+
+<https://data.cervantesvirtual.com/work/849636> a <http://rdaregistry.info/Elements/c/Work> ;
+    dc:subject "España -- Historia -- 1936-1939 (Guerra civil)" ;
+    rdaw:author <https://data.cervantesvirtual.com/person/83368> ;
+    rdaw:formOfWork <http://id.loc.gov/authorities/genreForms/gf2014026168> ;
+    rdaw:titleOfTheWork "El universo femenino de la República" .
+
+<https://data.cervantesvirtual.com/work/849639> a <http://rdaregistry.info/Elements/c/Work> ;
+    dc:subject "España -- Historia -- 1936-1939 (Guerra civil)" ;
+    rdaw:author <https://data.cervantesvirtual.com/person/83369> ;
+    rdaw:formOfWork <http://id.loc.gov/authorities/genreForms/gf2014026168> ;
+    rdaw:titleOfTheWork """¿Los intelectuales en el destierro? La ideología del exilio
+""" .
+
+<https://data.cervantesvirtual.com/work/849642> a <http://rdaregistry.info/Elements/c/Work> ;
+    dc:subject "España -- Historia -- 1936-1939 (Guerra civil)" ;
+    rdaw:author <https://data.cervantesvirtual.com/person/13607> ;
+    rdaw:formOfWork <http://id.loc.gov/authorities/genreForms/gf2014026168> ;
+    rdaw:titleOfTheWork "El exilio: Francia " .
+
+<https://data.cervantesvirtual.com/work/849645> a <http://rdaregistry.info/Elements/c/Work> ;
+    dc:subject "España -- Historia -- 1936-1939 (Guerra civil)" ;
+    rdaw:author <https://data.cervantesvirtual.com/person/83370> ;
+    rdaw:formOfWork <http://id.loc.gov/authorities/genreForms/gf2014026168> ;
+    rdaw:titleOfTheWork "El derecho a la República" .
+
+<https://data.cervantesvirtual.com/work/849649> a <http://rdaregistry.info/Elements/c/Work> ;
+    dc:subject "España -- Historia -- 1936-1939 (Guerra civil)" ;
+    rdaw:author <https://data.cervantesvirtual.com/person/83373> ;
+    rdaw:formOfWork <http://id.loc.gov/authorities/genreForms/gf2014026168> ;
+    rdaw:titleOfTheWork "La República se (re)publica " .
+
+<https://data.cervantesvirtual.com/work/849659> a <http://rdaregistry.info/Elements/c/Work> ;
+    dc:subject "España -- Historia -- 1936-1939 (Guerra civil)" ;
+    rdaw:author <https://data.cervantesvirtual.com/person/83374> ;
+    rdaw:formOfWork <http://id.loc.gov/authorities/genreForms/gf2014026168> ;
+    rdaw:titleOfTheWork """Antonio Espina. Vanguardia literaria y compromiso político
+""" .
+
+<https://data.cervantesvirtual.com/work/849662> a <http://rdaregistry.info/Elements/c/Work> ;
+    dc:subject "España -- Historia -- 1936-1939 (Guerra civil)" ;
+    rdaw:author <https://data.cervantesvirtual.com/person/77108> ;
+    rdaw:formOfWork <http://id.loc.gov/authorities/genreForms/gf2014026168> ;
+    rdaw:titleOfTheWork """El Madrid épico de la guerra cantado por los poetas 
+""" .
+
+<https://data.cervantesvirtual.com/work/849665> a <http://rdaregistry.info/Elements/c/Work> ;
+    dc:subject "España -- Historia -- 1936-1939 (Guerra civil)" ;
+    rdaw:author <https://data.cervantesvirtual.com/person/76689> ;
+    rdaw:formOfWork <http://id.loc.gov/authorities/genreForms/gf2014026168> ;
+    rdaw:titleOfTheWork "Literatura republicana, literatura proletaria, literatura revolucionaria" .
+
+<https://data.cervantesvirtual.com/work/849666> a <http://rdaregistry.info/Elements/c/Work> ;
+    dc:subject "España -- Historia -- 1936-1939 (Guerra civil)" ;
+    rdaw:author <https://data.cervantesvirtual.com/person/11659> ;
+    rdaw:formOfWork <http://id.loc.gov/authorities/genreForms/gf2014026168> ;
+    rdaw:titleOfTheWork "Los intelectuales árabes en la Guerra Civil de España " .
+
+<https://data.cervantesvirtual.com/work/849674> a <http://rdaregistry.info/Elements/c/Work> ;
+    dc:subject "España -- Historia -- 1936-1939 (Guerra civil)" ;
+    rdaw:author <https://data.cervantesvirtual.com/person/83377> ;
+    rdaw:formOfWork <http://id.loc.gov/authorities/genreForms/gf2014026168> ;
+    rdaw:titleOfTheWork "Guerra, poesía y \"Niebla\". Análisis de un poema " .
+
+<https://data.cervantesvirtual.com/work/849678> a <http://rdaregistry.info/Elements/c/Work> ;
+    dc:subject "España -- Historia -- 1936-1939 (Guerra civil)" ;
+    rdaw:author <https://data.cervantesvirtual.com/person/83375> ;
+    rdaw:formOfWork <http://id.loc.gov/authorities/genreForms/gf2014026168> ;
+    rdaw:titleOfTheWork "La República y la ciencia" .
+
+<https://data.cervantesvirtual.com/work/849706> a <http://rdaregistry.info/Elements/c/Work> ;
+    dc:subject "España -- Historia -- 1936-1939 (Guerra civil)" ;
+    rdaw:author <https://data.cervantesvirtual.com/person/83385> ;
+    rdaw:formOfWork <http://id.loc.gov/authorities/genreForms/gf2014026168> ;
+    rdaw:titleOfTheWork """La amargura de la derrota (el general Rojo en Buenos Aires)
+""" .
+
+<https://data.cervantesvirtual.com/work/849713> a <http://rdaregistry.info/Elements/c/Work> ;
+    dc:subject "España -- Historia -- 1936-1939 (Guerra civil)" ;
+    rdaw:author <https://data.cervantesvirtual.com/person/83386> ;
+    rdaw:formOfWork <http://id.loc.gov/authorities/genreForms/gf2014026168> ;
+    rdaw:titleOfTheWork "Las mujeres en la República" .
+
+<https://data.cervantesvirtual.com/work/849758> a <http://rdaregistry.info/Elements/c/Work> ;
+    dc:subject "España -- Historia -- 1936-1939 (Guerra civil)" ;
+    rdaw:author <https://data.cervantesvirtual.com/person/83370> ;
+    rdaw:formOfWork <http://id.loc.gov/authorities/genreForms/gf2014026168> ;
+    rdaw:titleOfTheWork "Hacia una República federal" .
+
+<https://data.cervantesvirtual.com/work/849812> a <http://rdaregistry.info/Elements/c/Work> ;
+    dc:subject "España -- Historia -- 1936-1939 (Guerra civil)" ;
+    rdaw:author <https://data.cervantesvirtual.com/person/83388> ;
+    rdaw:formOfWork <http://id.loc.gov/authorities/genreForms/gf2014026168> ;
+    rdaw:titleOfTheWork "Ortega y Azaña, dos visiones de la República " .
+
+<https://data.cervantesvirtual.com/work/849815> a <http://rdaregistry.info/Elements/c/Work> ;
+    dc:subject "España -- Historia -- 1936-1939 (Guerra civil)" ;
+    rdaw:author <https://data.cervantesvirtual.com/person/83377> ;
+    rdaw:formOfWork <http://id.loc.gov/authorities/genreForms/gf2014026168> ;
+    rdaw:titleOfTheWork "La poesía política de Alberti" .
+
+<https://data.cervantesvirtual.com/work/849821> a <http://rdaregistry.info/Elements/c/Work> ;
+    dc:subject "España -- Historia -- 1936-1939 (Guerra civil)" ;
+    rdaw:author <https://data.cervantesvirtual.com/person/13592> ;
+    rdaw:formOfWork <http://id.loc.gov/authorities/genreForms/gf2014026168> ;
+    rdaw:titleOfTheWork """Los escritores y la República 
+""" .
+
+<https://data.cervantesvirtual.com/work/849833> a <http://rdaregistry.info/Elements/c/Work> ;
+    dc:subject "España -- Historia -- 1936-1939 (Guerra civil)" ;
+    rdaw:author <https://data.cervantesvirtual.com/person/83390> ;
+    rdaw:formOfWork <http://id.loc.gov/authorities/genreForms/gf2014026168> ;
+    rdaw:titleOfTheWork "Gratitud cubana a la República española " .
+
+<https://data.cervantesvirtual.com/work/849842> a <http://rdaregistry.info/Elements/c/Work> ;
+    dc:subject "España -- Historia -- 1936-1939 (Guerra civil)" ;
+    rdaw:author <https://data.cervantesvirtual.com/person/83391> ;
+    rdaw:formOfWork <http://id.loc.gov/authorities/genreForms/gf2014026168> ;
+    rdaw:titleOfTheWork "Max Aub en el exilio: el compromiso de la vanguardia " .
+
+<https://data.cervantesvirtual.com/work/849848> a <http://rdaregistry.info/Elements/c/Work> ;
+    dc:subject "España -- Historia -- 1936-1939 (Guerra civil)" ;
+    rdaw:author <https://data.cervantesvirtual.com/person/83392> ;
+    rdaw:formOfWork <http://id.loc.gov/authorities/genreForms/gf2014026168> ;
+    rdaw:titleOfTheWork "\"Viridiana\" entre dos exilios " .
+
+<https://data.cervantesvirtual.com/work/849851> a <http://rdaregistry.info/Elements/c/Work> ;
+    dc:subject "España -- Historia -- 1936-1939 (Guerra civil)" ;
+    rdaw:author <https://data.cervantesvirtual.com/person/13591>,
+        <https://data.cervantesvirtual.com/person/77929> ;
+    rdaw:formOfWork <http://id.loc.gov/authorities/genreForms/gf2014026168> ;
+    rdaw:titleOfTheWork """El exilio en el recuerdo: "No hay identidad, hay identificación".
+Entrevista al poeta Tomás Segovia """ .
+
+<https://data.cervantesvirtual.com/work/849878> a <http://rdaregistry.info/Elements/c/Work> ;
+    dc:subject "España -- Historia -- 1936-1939 (Guerra civil)" ;
+    rdaw:author <https://data.cervantesvirtual.com/person/83395>,
+        <https://data.cervantesvirtual.com/person/83396> ;
+    rdaw:formOfWork <http://id.loc.gov/authorities/genreForms/gf2014026168> ;
+    rdaw:titleOfTheWork "Canciones del bando republicano " .
+
+<https://data.cervantesvirtual.com/work/849882> a <http://rdaregistry.info/Elements/c/Work> ;
+    dc:subject "España -- Historia -- 1936-1939 (Guerra civil)" ;
+    rdaw:author <https://data.cervantesvirtual.com/person/13591> ;
+    rdaw:formOfWork <http://id.loc.gov/authorities/genreForms/gf2014026168> ;
+    rdaw:titleOfTheWork "Entre dos derechos iguales decide la fuerza " .
+
+<https://data.cervantesvirtual.com/work/849890> a <http://rdaregistry.info/Elements/c/Work> ;
+    dc:subject "España -- Historia -- 1936-1939 (Guerra civil)" ;
+    rdaw:author <https://data.cervantesvirtual.com/person/83369> ;
+    rdaw:formOfWork <http://id.loc.gov/authorities/genreForms/gf2014026168> ;
+    rdaw:titleOfTheWork "Escritores en guerra " .
+
+<https://data.cervantesvirtual.com/work/849899> a <http://rdaregistry.info/Elements/c/Work> ;
+    dc:subject "España -- Historia -- 1936-1939 (Guerra civil)" ;
+    rdaw:author <https://data.cervantesvirtual.com/person/83388> ;
+    rdaw:formOfWork <http://id.loc.gov/authorities/genreForms/gf2014026168> ;
+    rdaw:titleOfTheWork "Ortodoxia y heterodoxia: consecuencias de la Guerra Civil " .
+
+<https://data.cervantesvirtual.com/work/849914> a <http://rdaregistry.info/Elements/c/Work> ;
+    dc:subject "España -- Historia -- 1936-1939 (Guerra civil)" ;
+    rdaw:author <https://data.cervantesvirtual.com/person/83398> ;
+    rdaw:formOfWork <http://id.loc.gov/authorities/genreForms/gf2014026168> ;
+    rdaw:titleOfTheWork "España y españoles en la Hispano-Cubana de Cultura " .
+
+<https://data.cervantesvirtual.com/work/849917> a <http://rdaregistry.info/Elements/c/Work> ;
+    dc:subject "España -- Historia -- 1936-1939 (Guerra civil)" ;
+    rdaw:author <https://data.cervantesvirtual.com/person/73691> ;
+    rdaw:formOfWork <http://id.loc.gov/authorities/genreForms/gf2014026168> ;
+    rdaw:titleOfTheWork "Las mujeres en \"Hora de España\"" .
+
+<https://data.cervantesvirtual.com/work/850026> a <http://rdaregistry.info/Elements/c/Work> ;
+    dc:subject "España -- Historia -- 1936-1939 (Guerra civil)" ;
+    rdaw:author <https://data.cervantesvirtual.com/person/74720> ;
+    rdaw:formOfWork <http://id.loc.gov/authorities/genreForms/gf2014026168> ;
+    rdaw:titleOfTheWork "Francisco Ayala" .
+
+<https://data.cervantesvirtual.com/work/884284> a <http://rdaregistry.info/Elements/c/Work> ;
+    dc:subject "España -- Historia -- 1936-1939 (Guerra civil)" ;
+    rdaw:author <https://data.cervantesvirtual.com/person/86394> ;
+    rdaw:formOfWork <http://id.loc.gov/authorities/genreForms/gf2014026168> ;
+    rdaw:titleOfTheWork "Stephanie Sieburth: \"Coplas para sobrevivir. Conchita Piquer, los vencidos y la represión franquista\". Madrid: Cátedra, 2016, 302 págs. [Reseña]" .
+
+<https://data.cervantesvirtual.com/work/924324> a <http://rdaregistry.info/Elements/c/Work> ;
+    dc:subject "España -- Historia -- 1936-1939 (Guerra civil)" ;
+    rdaw:author <https://data.cervantesvirtual.com/person/9554> ;
+    rdaw:formOfWork <http://id.loc.gov/authorities/genreForms/gf2014026191> ;
+    rdaw:titleOfTheWork "La persona y el Estado" .
+
+<https://data.cervantesvirtual.com/work/926750> a <http://rdaregistry.info/Elements/c/Work> ;
+    dc:subject "España -- Historia -- 1936-1939 (Guerra civil)" ;
+    rdaw:author <https://data.cervantesvirtual.com/person/89496> ;
+    rdaw:formOfWork <http://id.loc.gov/authorities/genreForms/gf2014026168> ;
+    rdaw:titleOfTheWork "\"La verdadera historia de la muerte de Francisco Franco\", de Max Aub, o la necesidad de reescribir la historia" .
+
+<https://data.cervantesvirtual.com/work/933894> a <http://rdaregistry.info/Elements/c/Work> ;
+    dc:subject "España -- Historia -- 1936-1939 (Guerra civil)" ;
+    rdaw:author <https://data.cervantesvirtual.com/person/90620> ;
+    rdaw:formOfWork <http://id.loc.gov/authorities/genreForms/gf2014026168> ;
+    rdaw:titleOfTheWork "La II República y la Guerra Civil en el debate político actual" .
+
+<https://data.cervantesvirtual.com/work/935813> a <http://rdaregistry.info/Elements/c/Work> ;
+    dc:subject "España -- Historia -- 1936-1939 (Guerra civil)" ;
+    rdaw:author <https://data.cervantesvirtual.com/corporatebody/73791> ;
+    rdaw:formOfWork <http://id.loc.gov/authorities/genreForms/gf2014026191> ;
+    rdaw:titleOfTheWork "1936 de la Revolución Española" .
+
+<https://data.cervantesvirtual.com/work/943476> a <http://rdaregistry.info/Elements/c/Work> ;
+    dc:subject "España -- Historia -- 1936-1939 (Guerra civil)" ;
+    rdaw:author <https://data.cervantesvirtual.com/person/7962> ;
+    rdaw:formOfWork <http://id.loc.gov/authorities/genreForms/gf2014026168> ;
+    rdaw:titleOfTheWork "La \"Guerra Civil\" como categoría cultural" .
+
+<https://data.cervantesvirtual.com/work/969704> a <http://rdaregistry.info/Elements/c/Work> ;
+    dc:subject "España -- Historia -- 1936-1939 (Guerra civil)" ;
+    rdaw:author <https://data.cervantesvirtual.com/person/92830> ;
+    rdaw:formOfWork <http://id.loc.gov/authorities/genreForms/gf2014026168> ;
+    rdaw:titleOfTheWork "De Málaga a México, de la República al exilio. El legado de Juan Antonio Ortega y Medina" .
+
+<https://data.cervantesvirtual.com/work/969713> a <http://rdaregistry.info/Elements/c/Work> ;
+    dc:subject "España -- Historia -- 1936-1939 (Guerra civil)" ;
+    rdaw:author <https://data.cervantesvirtual.com/person/92833> ;
+    rdaw:formOfWork <http://id.loc.gov/authorities/genreForms/gf2014026168> ;
+    rdaw:titleOfTheWork "Juan Antonio Ortega y Medina. Retrato íntimo" .
+
+<https://data.cervantesvirtual.com/work/972241> a <http://rdaregistry.info/Elements/c/Work> ;
+    dc:subject "España -- Historia -- 1936-1939 (Guerra civil)" ;
+    rdaw:author <https://data.cervantesvirtual.com/person/93031>,
+        <https://data.cervantesvirtual.com/person/93032>,
+        <https://data.cervantesvirtual.com/person/93033> ;
+    rdaw:formOfWork <http://id.loc.gov/authorities/genreForms/gf2014026168> ;
+    rdaw:titleOfTheWork "La Guerra Civil en Castilla y León: ensayo general para la dictadura franquista" .
+
+<https://data.cervantesvirtual.com/work/972244> a <http://rdaregistry.info/Elements/c/Work> ;
+    dc:subject "España -- Historia -- 1936-1939 (Guerra civil)" ;
+    rdaw:author <https://data.cervantesvirtual.com/person/93034> ;
+    rdaw:formOfWork <http://id.loc.gov/authorities/genreForms/gf2014026168> ;
+    rdaw:titleOfTheWork "Actitudes sociales y políticas en la denominada recuperación de la memoria histórica. Galicia: el proyecto de investigación interuniversitario \"Nomes e Voces\"" .
+
+<https://data.cervantesvirtual.com/work/972277> a <http://rdaregistry.info/Elements/c/Work> ;
+    dc:subject "España -- Historia -- 1936-1939 (Guerra civil)" ;
+    rdaw:author <https://data.cervantesvirtual.com/person/93036>,
+        <https://data.cervantesvirtual.com/person/93037> ;
+    rdaw:formOfWork <http://id.loc.gov/authorities/genreForms/gf2014026168> ;
+    rdaw:titleOfTheWork "\"El Liberal\", de Sevilla (1901-1936). Un diario independiente en la Andalucía anterior a la Guerra Civil" .
+
+<https://data.cervantesvirtual.com/work/976242> a <http://rdaregistry.info/Elements/c/Work> ;
+    dc:subject "España -- Historia -- 1936-1939 (Guerra civil)" ;
+    rdaw:author <https://data.cervantesvirtual.com/person/93304> ;
+    rdaw:formOfWork <http://id.loc.gov/authorities/genreForms/gf2014026168> ;
+    rdaw:titleOfTheWork "Luis Jiménez de Asúa y la gestación de la política de \"No Intervención\" en la Guerra Civil Española" .
+
+<https://data.cervantesvirtual.com/work/976248> a <http://rdaregistry.info/Elements/c/Work> ;
+    dc:subject "España -- Historia -- 1936-1939 (Guerra civil)" ;
+    rdaw:author <https://data.cervantesvirtual.com/person/93305> ;
+    rdaw:formOfWork <http://id.loc.gov/authorities/genreForms/gf2014026168> ;
+    rdaw:titleOfTheWork "Los refugiados de la guerra civil como sujeto colectivo en las comarcas de Castellón de la Plana" .
+
+<https://data.cervantesvirtual.com/work/980192> a <http://rdaregistry.info/Elements/c/Work> ;
+    dc:subject "España -- Historia -- 1936-1939 (Guerra civil)" ;
+    rdaw:author <https://data.cervantesvirtual.com/person/93410> ;
+    rdaw:formOfWork <http://id.loc.gov/authorities/genreForms/gf2014026168> ;
+    rdaw:titleOfTheWork "La casta militar africanista : (1936)" .
+
+<https://data.cervantesvirtual.com/work/996999> a <http://rdaregistry.info/Elements/c/Work> ;
+    dc:subject "España -- Historia -- 1936-1939 (Guerra civil)" ;
+    rdaw:author <https://data.cervantesvirtual.com/person/95488> ;
+    rdaw:formOfWork <http://id.loc.gov/authorities/genreForms/gf2014026168> ;
+    rdaw:titleOfTheWork "De la cultura de guerra a la cultura de la victoria: los vencedores y la construcción de la dictadura franquista (1936-1951) " .
+
+<https://data.cervantesvirtual.com/work/997005> a <http://rdaregistry.info/Elements/c/Work> ;
+    dc:subject "España -- Historia -- 1936-1939 (Guerra civil)" ;
+    rdaw:author <https://data.cervantesvirtual.com/person/95490> ;
+    rdaw:formOfWork <http://id.loc.gov/authorities/genreForms/gf2014026168> ;
+    rdaw:titleOfTheWork "Los bombardeos italianos sobre el País Valenciano durante la Guerra Civil española: un estudio fotográfico " .
+

@@ -1,0 +1,11 @@
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix schema: <https://schema.org/> .
+
+<https://example.org/dataset/bibliographic-metadata-bvmc> a schema:Dataset ;
+    dc:title "Bibliographic records related to the Spanish Civil War from the Biblioteca Virtual Miguel de Cervantes LOD repository" ;
+    schema:dateCreated "2025-08-02" ;
+    schema:description "This example is based on bibliographic records related to the Spanish Civil War from the Biblioteca Virtual Miguel de Cervantes LOD repository." ;
+    schema:license <https://creativecommons.org/publicdomain/zero/1.0/> ;
+    schema:name "Bibliographic records related to the Spanish Civil War from the Biblioteca Virtual Miguel de Cervantes LOD repository" ;
+    schema:url <https://www.cervantesvirtual.com> .
+
