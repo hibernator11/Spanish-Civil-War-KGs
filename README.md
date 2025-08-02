@@ -183,7 +183,7 @@ WHERE {
 - [French refugee camps](https://nbviewer.org/github/hibernator11/Spanish-Civil-War-KGs/blob/main/notebooks/Extract-French-refugee-camps.ipynb): Example to retrieve the French refugee camps, which concentrated the Spanish Republican exiles of 1939.
 - [Artists](https://nbviewer.org/github/hibernator11/Spanish-Civil-War-KGs/blob/main/notebooks/Extract-artists.ipynb): Example to retrieve artists from the Republic and Spanish Civil War.
 - [Exile ships](https://nbviewer.org/github/hibernator11/Spanish-Civil-War-KGs/blob/main/notebooks/Extract-ships.ipynb): Example to retrieve exile ships.
-
+- [Bibliographic metadata](https://nbviewer.org/github/hibernator11/Spanish-Civil-War-KGs/blob/main/notebooks/Extract-bibliographic-metadata.ipynb): Example to retrieve bibliographic metadata.
 
 ## Running the notebooks
 **To execute the notebook in Binder:**
