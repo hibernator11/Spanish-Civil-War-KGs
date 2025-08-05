@@ -1,6 +1,8 @@
 # Spanish-Civil-War-KGs
 Extracting Knowledge Graphs as Collections as Data using the Spanish Civil War as case study
 
+[![DOI](https://zenodo.org/badge/983978680.svg)](https://doi.org/10.5281/zenodo.16747521)
+
 ### Introduction
 This project intends to analyse the options and potential of Wikidata to extract Knowledge Graphs as Collections as Data using the Spanish Civil War as case study.
 
