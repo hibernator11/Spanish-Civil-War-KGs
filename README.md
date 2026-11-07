@@ -25,7 +25,7 @@ We provide 4 examples of use covering different topics and content:
 The details of each of the examples are described below.
 
 This work was published in the for of a research article in the Journal of Computing and Cultural Heritage:
-Gustavo Candela, Meltem Dişli, Paul Spence, Cezary Rosiński, and Arkadiusz Margraf. 2026. Leveraging the use of knowledge graphs to extract Collections as Data: a Spanish Civil War use case. J. Comput. Cult. Herit. Just Accepted (October 2026). https://doi.org/10.1145/3858335
+- Gustavo Candela, Meltem Dişli, Paul Spence, Cezary Rosiński, and Arkadiusz Margraf. 2026. Leveraging the use of knowledge graphs to extract Collections as Data: a Spanish Civil War use case. J. Comput. Cult. Herit. Just Accepted (October 2026). https://doi.org/10.1145/3858335
 
 
 ### Artists from the period of the Spanish Republic and Spanish Civil War
